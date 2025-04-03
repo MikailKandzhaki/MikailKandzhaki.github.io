@@ -5,12 +5,29 @@
     <link>https://mikailkandzhaki.github.io/post/</link>
       <atom:link href="https://mikailkandzhaki.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mikailkandzhaki.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
       <link>https://mikailkandzhaki.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://mikailkandzhaki.github.io/post/03/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://mikailkandzhaki.github.io/post/03/</guid>
+      <description>&lt;h1 id=&#34;-апдейт-по-неделе--прикладная-информатика&#34;&gt;📌 Апдейт по неделе — прикладная информатика&lt;/h1&gt;
+&lt;p&gt;Неделя прошла в рабочем темпе, без перегибов, но с полезными точками роста.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧮 На практике по анализу данных строили модели регрессии — кажется, линейная уже не пугает, а вызывает интерес.&lt;/li&gt;
+&lt;li&gt;🧾 По цифровой трансформации бизнеса разбирали кейсы: как ИТ реально влияет на процессы и метрики компаний.&lt;/li&gt;
+&lt;li&gt;🖥️ Разметили прототип интерфейса под курсовой проект — пригодился весь багаж по UX.&lt;/li&gt;
+&lt;li&gt;🎤 На семинаре обсудили, как строится структура научной презентации. Оказалось, многое зависит не от дизайна, а от логики подачи.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В целом — неделя про то, как объяснять сложное простыми словами. В ИТ это навык не хуже умения писать код.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
