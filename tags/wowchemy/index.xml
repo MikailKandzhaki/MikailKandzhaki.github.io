@@ -5,7 +5,7 @@
     <link>https://mikailkandzhaki.github.io/tags/wowchemy/</link>
       <atom:link href="https://mikailkandzhaki.github.io/tags/wowchemy/index.xml" rel="self" type="application/rss+xml" />
     <description>Wowchemy</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mikailkandzhaki.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Wowchemy</title>
@@ -13,27 +13,39 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://mikailkandzhaki.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://mikailkandzhaki.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://mikailkandzhaki.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://mikailkandzhaki.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://mikailkandzhaki.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://mikailkandzhaki.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Персональный сайт учёного с Hugo Academic</title>
+      <link>https://mikailkandzhaki.github.io/project/hugo/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://mikailkandzhaki.github.io/project/hugo/</guid>
+      <description>&lt;p&gt;Создание персонального сайта — разумный шаг для любого исследователя, который хочет системно представить свою научную деятельность. Hugo Academic — это готовое решение, специально адаптированное под нужды научного сообщества.&lt;/p&gt;
+&lt;p&gt;Благодаря открытой архитектуре и гибкой структуре, сайт на Hugo Academic может выполнять сразу несколько функций: служить онлайн-портфолио, платформой для публикаций, архивом учебных материалов и даже блогом.&lt;/p&gt;
+&lt;h2 id=&#34;основные-особенности&#34;&gt;Основные особенности&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Статическая генерация&lt;/strong&gt;. Hugo Academic работает на основе генератора Hugo. Это означает высокую скорость загрузки, простую публикацию и отсутствие зависимости от серверных технологий.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Фокус на научную деятельность&lt;/strong&gt;. Поддерживаются публикации с BibTeX, интеграции с Google Scholar и ORCID, отображение проектов, курсов и мероприятий.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Готовый дизайн&lt;/strong&gt;. Шаблон оформлен в соответствии с академическим стилем, но при этом остаётся современным и адаптивным.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Гибкость&lt;/strong&gt;. Можно добавлять страницы, разделы, виджеты, менять структуру и внешний вид под свои задачи.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Лёгкое сопровождение&lt;/strong&gt;. Сайт можно редактировать локально или через GitHub/GitLab, что удобно при регулярных обновлениях.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;применение&#34;&gt;Применение&lt;/h2&gt;
+&lt;p&gt;Сайт на Hugo Academic позволяет:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;презентовать научные интересы и квалификацию;&lt;/li&gt;
+&lt;li&gt;автоматически отображать список публикаций;&lt;/li&gt;
+&lt;li&gt;делиться учебными и исследовательскими материалами;&lt;/li&gt;
+&lt;li&gt;вести блог и публиковать анонсы мероприятий;&lt;/li&gt;
+&lt;li&gt;повысить видимость в научном сообществе и за его пределами.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;кому-подойдёт&#34;&gt;Кому подойдёт&lt;/h2&gt;
+&lt;p&gt;Этот инструмент будет полезен:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;аспирантам, формирующим академическое портфолио;&lt;/li&gt;
+&lt;li&gt;преподавателям, создающим открытую образовательную среду;&lt;/li&gt;
+&lt;li&gt;научным сотрудникам и группам, желающим систематизировать информацию о своей деятельности.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Hugo Academic — это практичное и надёжное решение для создания научного сайта. Он помогает не только систематизировать контент, но и выстроить профессиональное онлайн-присутствие. Учитывая открытость, гибкость и ориентацию на исследователей, это один из лучших выборов для тех, кто хочет представить свою научную деятельность в цифровом виде.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
